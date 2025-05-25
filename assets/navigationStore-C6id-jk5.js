@@ -1,1 +1,0 @@
-import{W as t}from"./index-BKir6Kgx.js";const i=t("navigation",{state:()=>({sourceComponent:null,navigationParams:{}}),actions:{setNavigationSource(a,o={}){this.sourceComponent=a,this.navigationParams=o},clearNavigationSource(){this.sourceComponent=null,this.navigationParams={}}}});export{i as u};
